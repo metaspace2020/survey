@@ -1,5 +1,5 @@
 # METASPACE #
-This repository accompanies the manuscript: "Title TBC" Andrew Palmer, Dennis Trede, Theodore Alexandrov
+This repository accompanies the manuscript: "Where imaging mass spectrometry stands: here are the numbers" Andrew Palmer, Dennis Trede, Theodore Alexandrov. It contains all the data and analysis required to reproduce the figures in the paper.
 
 # Quick View #
 Check out [this digital notebook](https://github.com/SpatialMetabolomics/metaspace-survey/blob/master/metaspace_survey.ipynb) to go directly to the survey analysis results. All figures contained in the paper are shown here (although the colourscheme may vary).
