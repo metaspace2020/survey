@@ -1,6 +1,9 @@
 # METASPACE #
 This repository accompanies the manuscript: "Where imaging mass spectrometry stands: here are the numbers" Andrew Palmer, Dennis Trede, Theodore Alexandrov. It contains all the data and analysis required to reproduce the figures in the paper.
 
+# Summary
+![Summary Figure](https://github.com/SpatialMetabolomics/metaspace-survey/blob/master/summary_figure.png)
+
 # Quick View #
 The  [metaspace_survey.ipynb](https://github.com/SpatialMetabolomics/metaspace-survey/blob/master/metaspace_survey.ipynb) digital noteook contains all the survey analysis and can be viewed directly in most modern web-browsers. All figures contained in the paper are shown here (although the colourscheme may vary).
 
