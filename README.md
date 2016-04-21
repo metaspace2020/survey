@@ -28,7 +28,7 @@ The full (anonymised) survey data can be downloaded from [here](https://github.c
 1. survey_final_all.csv: a raw dump of the results in CSV format
 2. survey_final_all_otherMoved.csv: The same results as `survey_final_all.csv` with entries in free-text 'other' fields that had two or more responses transfered to their own columns.
 
-## Funding acknowledgement
+## Funding
 The work has been supported in particular by the European H2020 project [METASPACE](http://metaspace2020.eu).
 
 ## License
