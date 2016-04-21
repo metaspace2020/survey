@@ -1,23 +1,37 @@
 # Where imaging mass spectrometry stands: here are the numbers
-This repository accompanies the manuscript: "Where imaging mass spectrometry stands: here are the numbers" Andrew Palmer, Dennis Trede, Theodore Alexandrov. It contains all the data and analysis required to reproduce the figures in the paper.
+This repository accompanies the manuscript: "Where imaging mass spectrometry stands: here are the numbers" by Andrew Palmer, Dennis Trede, and Theodore Alexandrov. It contains all the data collected in the survey and analysis scripts required to reproduce the figures in the paper.
 
-The study was performed in the framework of the European H2020 project [METASPACE](http://metaspace2020.eu)
+# Introduction
+Imaging Mass Spectrometry (imaging MS) is a technology for spatial analytics increasingly attracting attention in particular in metabolomics. Imaging MS has diverse applications, platforms, and used imaging of molecules from different classes. But there is little quantified information when answering such questions about the imaging MS field and community as: Is it used mainly for proteins or metabolites? What is the widespread of MALDI as compared to other types of ionisation sources? How much data is generated worldwide?
 
-# Summary
+To seek for quantified answers to these and other questions, we organized an online survey and recruited imaging MS practitioners to tell about themselves, their applications, imaging MS technologies they use and what their throughput is.
+
+WE THANK EVERYONE WHO COMPLETED THE SURVEY and provide publicly complete data (only anonymized), our data analysis scripts used to extract the information, and figures.
+
+# Summary Figure
 ![Summary Figure](https://github.com/SpatialMetabolomics/metaspace-survey/blob/master/summary_figure.png)
 
-# Quick View #
-The  [metaspace_survey.ipynb](https://github.com/SpatialMetabolomics/metaspace-survey/blob/master/metaspace_survey.ipynb) digital noteook contains all the survey analysis and can be viewed directly in most modern web-browsers. All figures contained in the paper are shown here (although the colourscheme may vary).
+# Reproducing the Results
+One can reproduce the results in either of the following ways:
 
-# Reproducing the results  #
-To reproduce all of the figures and analysis contained in the paper follow these steps:
+## Quick Preview in Web Browser
+The  [metaspace_survey.ipynb](https://github.com/SpatialMetabolomics/metaspace-survey/blob/master/metaspace_survey.ipynb) digital notebook contains all the survey analysis and can be viewed directly in most modern web-browsers. All figures contained in the paper are shown here alongside the scripts used to generate them (although the colourscheme may vary).
 
+## On Own Computer
 1. Install the jypyter/ipython environment from here: http://jupyter.readthedocs.org/en/latest/install.html
 2. Download and unzip all the files from this [repository](https://github.com/SpatialMetabolomics/metaspace-survey/archive/master.zip)
 3. Open and run `metaspace_survey.ipynb` in the jupyter notebook environment 
 
-## Original Data ##
+# Original Data
 The full (anonymised) survey data can be downloaded from [here](https://github.com/SpatialMetabolomics/metaspace-survey/tree/master/data). It contains two files:
 
-1. survey_final_all.csv: a raw dump of the results in csv format
+1. survey_final_all.csv: a raw dump of the results in CSV format
 2. survey_final_all_otherMoved.csv: The same results as `survey_final_all.csv` with entries in free-text 'other' fields that had two or more responses transfered to their own columns.
+
+# Funding acknowledgement
+The work has been supported in particular by the European H2020 project [METASPACE](http://metaspace2020.eu).
+
+# License
+The source code, figures, and anonymized data files are licensed under the Apache 2.0 license, see LICENSE.md.
+
+
