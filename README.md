@@ -6,7 +6,7 @@ Imaging Mass Spectrometry (imaging MS) is a technology for spatial analytics inc
 
 To seek for quantified answers to these and other questions, we organized an online survey in the end of 2015 and recruited imaging MS practitioners to tell about themselves, their applications, imaging MS technologies they use and what their throughput is.
 
-WE THANK EVERYONE WHO COMPLETED THE SURVEY and provide publicly complete data (only anonymized), our data analysis scripts used to extract the information, and figures.
+WE THANK EVERYONE WHO COMPLETED THE SURVEY and in return provide complete data collected in the survey (anonymized), our analytics results and summary figures, and scripts used for analytics.
 
 ## Summary Figure
 ![Summary Figure](https://github.com/SpatialMetabolomics/metaspace-survey/blob/master/summary_figure.png)
