@@ -1,5 +1,5 @@
 # Where imaging mass spectrometry stands: here are the numbers
-This repository accompanies the manuscript: "Where imaging mass spectrometry stands: here are the numbers" by Andrew Palmer, Dennis Trede, and Theodore Alexandrov. It contains all the data collected in the survey in the end of 2015 and analysis scripts required to reproduce the figures in the paper.
+This repository accompanies the manuscript: [Andrew Palmer, Dennis Trede, Theodore Alexandrov (2016) Where imaging mass spectrometry stands: here are the numbers, *Metabolomics*, 12:107](http://dx.doi.org/10.1007/s11306-016-1047-0). It contains all the data collected in the survey in the end of 2015 and analysis scripts required to reproduce the figures in the paper.
 
 ## Introduction
 Imaging Mass Spectrometry (imaging MS) is a technology for spatial analytics increasingly attracting attention in particular in metabolomics. Imaging MS has diverse applications, platforms, and used imaging of molecules from different classes. But there is little quantified information when answering such questions about the imaging MS field and community as: Is it used mainly for proteins or metabolites? What is the widespread of MALDI as compared to other types of ionisation sources? How much data is generated worldwide?
