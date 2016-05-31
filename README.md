@@ -11,6 +11,8 @@ WE THANK EVERYONE WHO COMPLETED THE SURVEY and in return provide complete data c
 ## Summary Figure
 ![Summary Figure](https://github.com/SpatialMetabolomics/metaspace-survey/blob/master/summary_figure.png)
 
+NB: Please note that in the figure published in the [paper](http://dx.doi.org/10.1007/s11306-016-1047-0) there is a typo, saying "DATASETS PER DAY" whereas it should be "DATASETS PER WEEK".
+
 ## Reproducing the Results
 One can reproduce the results in either of the following ways:
 
