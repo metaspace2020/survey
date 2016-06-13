@@ -13,6 +13,11 @@ WE THANK EVERYONE WHO COMPLETED THE SURVEY and in return provide complete data c
 
 NB: Please note that in the figure published in the [paper](http://dx.doi.org/10.1007/s11306-016-1047-0) there is a typo, saying "DATASETS PER DAY" whereas it should be "DATASETS PER WEEK".
 
+### Citation
+Please cite this work as: 
+Palmer, A., Trede, D., & Alexandrov, T. (2016). Where imaging mass spectrometry stands: here are the numbers. Metabolomics, 12(6), 1-3.
+DOI: 10.1007/s11306-016-1047-0
+
 ## Reproducing the Results
 One can reproduce the results in either of the following ways:
 
